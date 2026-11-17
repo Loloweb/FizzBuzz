@@ -1,2 +1,2 @@
 # FizzBuzz
-Coding Dojo training
+Coding training from https://codingdojo.org/kata/FizzBuzz/ in Java
